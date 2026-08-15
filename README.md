@@ -1010,7 +1010,7 @@ GitHub
 * [Git 원격 연동](evidence/깃1.png)
 * [GitHub Repository](evidence/깃2.png)
 * [Git/Bash 버전](evidence/깃버전.png)
-
+-[Git 원격 연동](evidence/Git%20원격%20연동.png)
 ## VSCode
 
 * [VSCode / GitHub 1](evidence/깃vs코드1.png)
